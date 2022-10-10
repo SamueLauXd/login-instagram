@@ -1,0 +1,10 @@
+.contenedor {
+    position: relative;
+}
+
+.enlaces {
+    position: absolute;
+    width: 1026px;
+    left: 199px;
+    top: 213px;
+}
